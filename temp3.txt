@@ -1,1 +1,1 @@
-this is temp3 file.txt
+After adding the file to staging area i'm resting the data of the file.
